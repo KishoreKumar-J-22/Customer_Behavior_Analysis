@@ -24,7 +24,9 @@ Built an end-to-end Customer Shopping Behavior Analysis project using Python, Po
 
 ## **Dataset Summary**
   Total Records: 3,900
+  
   Total Features: 18
+  
   Key Attributes:
   Age
   Gender
