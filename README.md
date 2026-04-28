@@ -27,9 +27,10 @@ Built an end-to-end Customer Shopping Behavior Analysis project using Python, Po
   
   Total Features: 18
   
-  Key Attributes:
+  ### **Key Attributes:**
   
   Age
+  
   Gender
   
   Location
@@ -69,37 +70,62 @@ Built an end-to-end Customer Shopping Behavior Analysis project using Python, Po
     
     PostgreSQL integration
   **SQL Analysis:**
+    
     Revenue by gender
+    
     Top-rated products
+    
     Customer segmentation
+    
     Subscription analysis
+    
     Shipping behavior comparison
+    
     Discount effectiveness
+    
     Revenue by age group
   **Power BI Dashboard:**
+    
     KPI metrics
+    
     Customer segmentation visuals
+    
     Revenue analysis
+    
     Interactive slicers
+    
     Product performance charts
 
 ## **Key Insights**
   Male customers generated higher revenue
+  
   Loyal customers formed the largest customer segment
+  
   Young adults contributed the highest revenue
+  
   Certain products were highly dependent on discounts
+  
   Subscription improved retention but not significantly higher spending
+  
   Express shipping users spent slightly more
 
 ## **Business Recommendations**
   Improve subscription programs
+  
   Strengthen loyalty rewards
+  
   Optimize discount strategy
+  
   Focus on high-value customer groups
+  
   Promote top-performing products
 
 ## **Tech Stack**
+  
   Python (Pandas, NumPy, SQLAlchemy)
+  
   PostgreSQL
+  
   Power BI
+  
   Jupyter Notebook
