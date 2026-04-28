@@ -28,28 +28,45 @@ Built an end-to-end Customer Shopping Behavior Analysis project using Python, Po
   Total Features: 18
   
   Key Attributes:
+  
   Age
   Gender
+  
   Location
+  
   Subscription Status
+  
   Purchase Amount
+  
   Product Category
+  
   Discount Usage
+  
   Shipping Type
+  
   Review Ratings
 
   ### **Data Quality:**
+  
   Handled missing values in Review Rating
+  
   Standardized column names
+  
   Removed redundant columns
+  
   Engineered new analytical features
 
 ## **Data Processing Workflow**
   **Python:**
+    
     Data cleaning
+    
     Missing value imputation
+    
     Exploratory Data Analysis (EDA)
+    
     Feature engineering
+    
     PostgreSQL integration
   **SQL Analysis:**
     Revenue by gender
